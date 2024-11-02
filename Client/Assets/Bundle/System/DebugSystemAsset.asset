@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4baa4ed309c230042b1f336fc136132b, type: 3}
+  m_Name: DebugSystemAsset
+  m_EditorClassIdentifier: 
+  useGravity: 1
+  myPlayerPos: {x: -2, y: 0}
+  otherPlayerPos: {x: 1, y: 0}
+  myCharacterType: 0
+  otherCharacterType: 0
+  playerComponentPrefab: {fileID: 2480274465849677282, guid: 280141d5dc0a46943a6fb61a33fd8170, type: 3}

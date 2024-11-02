@@ -1,0 +1,12 @@
+Key,Id,Shared Comments,English (Jamaica)(en-JM),English (Jamaica)(en-JM) Comments,Korean(ko),Korean(ko) Comments
+"GuestLogin",33623298048,"","GuestLogin","","게스트로그인",""
+"GuestLogout",67974647808,"","GuestLogout","","게스트로그아웃",""
+"AddDBData",88971333632,"","AddDBData","","DB데이터추가",""
+"InitDBData",128766889984,"","InitDBData","","DB데이터초기화",""
+"RandomPicker",174824542208,"","RandomPicker","","랜덤뽑기",""
+"AddRankingBoard",208383168512,"","AddRankingBoard","","랭킹보드정보추가",""
+"ShowRankingBoard",270899269632,"","ShowRankingBoard","","랭킹보드정보확인","ingBoard"""
+"GoogleLogin",356519352389632,"","GoogleLogin","","구글로그인",""
+"GoogleLogout",399993632116736,"","GoogleLogout","","구글로그아웃",""
+"ChangeToKorean",3217185432064000,"","ChangeToKorean","","언어변경-한국어",""
+"ChangeToEnglish",3217474360889344,"","ChangeToEnglish","","언어변경-영어",""
